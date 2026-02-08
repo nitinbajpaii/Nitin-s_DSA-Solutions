@@ -45,6 +45,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -54,6 +55,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
