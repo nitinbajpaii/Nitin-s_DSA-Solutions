@@ -30,6 +30,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -74,6 +76,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +103,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
