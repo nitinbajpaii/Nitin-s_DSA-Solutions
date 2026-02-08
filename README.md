@@ -72,8 +72,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
