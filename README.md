@@ -33,6 +33,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -42,4 +43,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
