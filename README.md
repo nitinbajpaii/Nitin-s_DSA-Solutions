@@ -1,4 +1,4 @@
-# Nitin---DSA-Solutions
+# Nitin --DSA-Solutions
 # 📘 LeetCode Solutions
 
 This repository contains my solutions to **LeetCode problems**, automatically synced to GitHub using **LeetHub**.
