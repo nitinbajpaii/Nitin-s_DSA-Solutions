@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -81,6 +82,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
