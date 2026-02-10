@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +121,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
