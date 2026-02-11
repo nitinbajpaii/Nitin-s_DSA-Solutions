@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
+| [1446-consecutive-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1446-consecutive-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
