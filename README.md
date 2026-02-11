@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -139,4 +141,8 @@ Happy Coding! 🚀
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
