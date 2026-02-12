@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
