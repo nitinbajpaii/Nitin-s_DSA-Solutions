@@ -183,4 +183,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
