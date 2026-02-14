@@ -47,6 +47,7 @@ Happy Coding! 🚀
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Happy Coding! 🚀
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
