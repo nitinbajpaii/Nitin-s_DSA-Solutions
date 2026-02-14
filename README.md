@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Happy Coding! 🚀
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Happy Coding! 🚀
 | [1704-determine-if-string-halves-are-alike](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +156,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
 | ------- |
