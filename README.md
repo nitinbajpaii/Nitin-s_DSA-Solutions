@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -130,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
