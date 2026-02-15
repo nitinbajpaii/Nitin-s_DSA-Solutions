@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,6 +182,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
@@ -208,6 +210,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
