@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -178,12 +180,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
