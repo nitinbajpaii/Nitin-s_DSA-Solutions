@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -64,6 +65,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
@@ -103,6 +105,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -136,6 +139,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +179,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
