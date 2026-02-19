@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -271,4 +273,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
