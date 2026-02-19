@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
@@ -265,4 +267,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
