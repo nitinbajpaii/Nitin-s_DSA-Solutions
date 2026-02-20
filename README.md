@@ -176,6 +176,7 @@ Happy Coding! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -200,6 +201,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
