@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [1629-slowest-key](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
