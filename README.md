@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
