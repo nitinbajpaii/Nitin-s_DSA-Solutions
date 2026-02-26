@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Math
 |  |
 | ------- |
