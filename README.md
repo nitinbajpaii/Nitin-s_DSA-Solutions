@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -293,6 +294,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -343,4 +345,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
