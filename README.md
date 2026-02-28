@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
