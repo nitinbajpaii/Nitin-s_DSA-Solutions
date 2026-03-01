@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -300,6 +301,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
