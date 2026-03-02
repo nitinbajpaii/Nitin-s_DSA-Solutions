@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Hash Table
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -250,6 +252,7 @@ Happy Coding! 🚀
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Stack
 |  |
 | ------- |
