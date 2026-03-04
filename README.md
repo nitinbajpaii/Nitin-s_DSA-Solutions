@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
