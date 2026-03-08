@@ -191,6 +191,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
