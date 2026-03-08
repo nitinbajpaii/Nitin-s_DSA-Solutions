@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -166,6 +167,7 @@ Happy Coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -188,6 +190,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
