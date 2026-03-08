@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -292,6 +294,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
