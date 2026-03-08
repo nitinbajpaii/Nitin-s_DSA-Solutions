@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
 ## String
 |  |
@@ -267,6 +270,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -401,4 +405,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
