@@ -47,6 +47,7 @@ Happy Coding! 🚀
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -298,6 +299,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
