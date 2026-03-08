@@ -302,6 +302,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -420,4 +421,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
