@@ -249,6 +249,7 @@ Happy Coding! 🚀
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
