@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
