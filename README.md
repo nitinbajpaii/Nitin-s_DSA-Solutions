@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +109,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -241,6 +243,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
 ## String
 |  |
@@ -292,6 +295,7 @@ Happy Coding! 🚀
 | [0147-insertion-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -348,6 +352,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
