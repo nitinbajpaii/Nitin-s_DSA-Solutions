@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +168,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -422,6 +424,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -478,4 +481,8 @@ Happy Coding! 🚀
 | [0176-second-highest-salary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
