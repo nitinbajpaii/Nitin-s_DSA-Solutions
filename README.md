@@ -354,6 +354,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -450,6 +451,7 @@ Happy Coding! 🚀
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Game Theory
 |  |
@@ -484,6 +486,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Bucket Sort
 |  |
 | ------- |
