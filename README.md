@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
@@ -299,6 +300,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
@@ -341,6 +343,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
