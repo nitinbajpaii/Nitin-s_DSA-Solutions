@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -392,6 +393,7 @@ Happy Coding! 🚀
 | [0191-number-of-1-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
