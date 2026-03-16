@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [1929-concatenation-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -463,6 +465,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
