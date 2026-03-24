@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -338,6 +340,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
