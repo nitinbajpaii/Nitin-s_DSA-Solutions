@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
@@ -533,6 +534,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0090-subsets-ii) |
 ## Prefix Sum
