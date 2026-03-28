@@ -272,6 +272,7 @@ Happy Coding! 🚀
 | [0203-remove-linked-list-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
