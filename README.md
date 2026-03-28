@@ -445,6 +445,7 @@ Happy Coding! 🚀
 | [0260-single-number-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
@@ -492,6 +493,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
