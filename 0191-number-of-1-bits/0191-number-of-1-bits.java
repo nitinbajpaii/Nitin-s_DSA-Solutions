@@ -10,14 +10,14 @@ class Solution {
             }
             n /= 2;
         }
+         
         int count=0;
         int x = rev.length();
-        for(int i=x-1;i>=0;i--){
+        for(int i=0;i<x;i++){
             if(rev.charAt(i)=='1'){
                 count++;
             }
         }
         return count;
-        
     }
 }
