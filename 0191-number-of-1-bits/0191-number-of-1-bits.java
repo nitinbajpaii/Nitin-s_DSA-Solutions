@@ -1,20 +1,20 @@
 class Solution {
     public int hammingWeight(int n) {
-        String rev ="";
+        StringBuilder res=new StringBuilder();
         while(n>0){
-            if(n%2==1){
-                rev += '1';
+            if(n%2!=0){
+                res.append("1");
             }
             else{
-                rev += '0';
+                res.append("0");
             }
-            n /= 2;
+            n=n/2;
         }
-         
+        String ans=res.toString();
         int count=0;
-        int x = rev.length();
-        for(int i=0;i<x;i++){
-            if(rev.charAt(i)=='1'){
+
+        for(int i=0; i<ans.length(); i++){
+            if(ans.charAt(i)=='1'){
                 count++;
             }
         }
