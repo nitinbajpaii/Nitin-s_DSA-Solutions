@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -631,6 +632,7 @@ Happy Coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
