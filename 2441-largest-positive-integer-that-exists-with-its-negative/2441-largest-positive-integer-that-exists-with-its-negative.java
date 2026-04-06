@@ -7,7 +7,7 @@ class Solution {
         }
         int max = -1;
         for(int x: nums){
-            if(x>0 && set.contains(-x)){
+            if(set.contains(-x)){
                 max = Math.max(x,max);
             }
         }
