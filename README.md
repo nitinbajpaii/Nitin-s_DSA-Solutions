@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -278,6 +280,7 @@ Happy Coding! 🚀
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
@@ -448,6 +451,7 @@ Happy Coding! 🚀
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Stack
