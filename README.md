@@ -204,6 +204,7 @@ Happy Coding! 🚀
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
@@ -423,6 +424,7 @@ Happy Coding! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Happy Coding! 🚀
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Greedy
