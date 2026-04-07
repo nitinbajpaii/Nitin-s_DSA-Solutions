@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
@@ -255,6 +257,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -553,6 +556,7 @@ Happy Coding! 🚀
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Greedy
