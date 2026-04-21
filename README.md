@@ -491,6 +491,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -619,6 +620,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -716,4 +718,12 @@ Happy Coding! 🚀
 | ------- |
 | [0278-first-bad-version](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
