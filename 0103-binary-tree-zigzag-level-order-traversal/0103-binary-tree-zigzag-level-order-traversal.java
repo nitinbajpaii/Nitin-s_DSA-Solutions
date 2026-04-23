@@ -23,7 +23,7 @@ class Solution {
         q.add(root);
         int level_count=0;
         while(!q.isEmpty()){
-            int level_size = q.size();
+            int level_size=q.size();
             List<Integer> sublist = new ArrayList<>();
             level_count++;
             for(int i=0;i<level_size;i++){
