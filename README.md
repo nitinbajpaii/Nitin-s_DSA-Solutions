@@ -363,6 +363,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0278-first-bad-version) |
@@ -527,6 +528,7 @@ Happy Coding! 🚀
 | [0190-reverse-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
@@ -753,6 +755,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -769,6 +772,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
