@@ -643,6 +643,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -756,6 +757,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -773,6 +775,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -789,5 +792,6 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
