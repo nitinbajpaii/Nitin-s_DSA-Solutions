@@ -768,6 +768,7 @@ Happy Coding! 🚀
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -790,6 +791,7 @@ Happy Coding! 🚀
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -810,4 +812,5 @@ Happy Coding! 🚀
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
