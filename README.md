@@ -645,6 +645,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -762,6 +763,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -783,6 +785,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -797,6 +800,7 @@ Happy Coding! 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
