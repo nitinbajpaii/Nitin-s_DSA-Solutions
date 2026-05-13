@@ -22,9 +22,9 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            int level = q.size();
+            int size = q.size();
             double sum = 0.0;
-            for(int i=0;i<level;i++){
+            for(int i=0;i<size;i++){
                 TreeNode curr = q.poll();
                 sum += curr.val;
                 if(curr.left!=null){
@@ -34,7 +34,7 @@ class Solution {
                     q.add(curr.right);
                 }
             }
-            res.add(sum/level);
+            res.add(sum/size);
         }
         return res;
     }
