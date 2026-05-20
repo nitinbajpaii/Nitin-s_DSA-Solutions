@@ -255,6 +255,7 @@ Happy Coding! 🚀
 | [0367-valid-perfect-square](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
