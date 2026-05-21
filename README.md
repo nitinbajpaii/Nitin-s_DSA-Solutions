@@ -787,6 +787,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -816,6 +817,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
