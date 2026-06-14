@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -517,6 +519,7 @@ Happy Coding! 🚀
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0856-score-of-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
@@ -629,6 +632,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
 | ------- |
