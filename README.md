@@ -210,6 +210,7 @@ Happy Coding! 🚀
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -458,6 +459,7 @@ Happy Coding! 🚀
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
@@ -596,6 +598,7 @@ Happy Coding! 🚀
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
