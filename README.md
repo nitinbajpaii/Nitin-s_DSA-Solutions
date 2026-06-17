@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -219,6 +220,7 @@ Happy Coding! 🚀
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -276,6 +278,7 @@ Happy Coding! 🚀
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -581,6 +584,7 @@ Happy Coding! 🚀
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
