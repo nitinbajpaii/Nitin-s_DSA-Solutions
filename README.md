@@ -686,6 +686,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Trie
@@ -816,6 +817,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -851,6 +853,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
