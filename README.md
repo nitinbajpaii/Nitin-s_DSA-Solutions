@@ -279,6 +279,7 @@ Happy Coding! 🚀
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
