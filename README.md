@@ -264,6 +264,7 @@ Happy Coding! 🚀
 | [0342-power-of-four](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -439,6 +440,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
