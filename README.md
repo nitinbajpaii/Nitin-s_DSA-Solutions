@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -667,6 +668,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Depth-First Search
 |  |
