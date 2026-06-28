@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -444,6 +445,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0520-detect-capital) |
@@ -506,6 +508,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
@@ -608,6 +611,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -722,6 +726,7 @@ Happy Coding! 🚀
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
@@ -769,6 +774,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
