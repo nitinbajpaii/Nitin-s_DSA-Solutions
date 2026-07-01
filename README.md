@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2574-left-and-right-sum-differences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -755,6 +756,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
 | ------- |
