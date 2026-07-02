@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0027-remove-element) |
@@ -305,6 +306,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -648,6 +650,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
