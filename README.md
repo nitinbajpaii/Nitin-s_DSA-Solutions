@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
@@ -414,6 +415,7 @@ Happy Coding! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
