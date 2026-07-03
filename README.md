@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -246,6 +247,7 @@ Happy Coding! 🚀
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
