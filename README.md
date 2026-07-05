@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -603,6 +605,7 @@ Happy Coding! 🚀
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -647,6 +650,7 @@ Happy Coding! 🚀
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
