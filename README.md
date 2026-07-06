@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -241,6 +242,7 @@ Happy Coding! 🚀
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -303,6 +305,7 @@ Happy Coding! 🚀
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -661,6 +664,7 @@ Happy Coding! 🚀
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
