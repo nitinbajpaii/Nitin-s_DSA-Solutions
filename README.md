@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -426,6 +427,7 @@ Happy Coding! 🚀
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -781,6 +783,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
@@ -831,6 +834,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Quickselect
 |  |
