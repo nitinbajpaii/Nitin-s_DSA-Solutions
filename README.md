@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [1816-truncate-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1929-concatenation-of-array) |
+| [1995-count-special-quadruplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -223,6 +224,7 @@ Happy Coding! 🚀
 | [1805-number-of-different-integers-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1995-count-special-quadruplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -828,6 +830,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
+| [1995-count-special-quadruplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sliding Window
