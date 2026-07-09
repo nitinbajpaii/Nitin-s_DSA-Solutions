@@ -40,6 +40,7 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -692,6 +693,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -705,6 +707,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
