@@ -13,8 +13,8 @@ public class Solution {
                 leftMin--;
                 leftMax++;
             }
-            if (leftMin < 0) leftMin = 0;
             if (leftMax < 0) return false;
+            if (leftMin < 0) leftMin = 0;
         }
         return leftMin == 0;
     }
