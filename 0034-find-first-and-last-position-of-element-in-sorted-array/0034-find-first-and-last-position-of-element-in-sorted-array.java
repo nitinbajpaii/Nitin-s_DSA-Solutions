@@ -1,19 +1,32 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first=-1,last=-1;
-        int n = nums.length;
-        for(int i=0;i<n;i++){
-            if(nums[i]==target){
-                first=i;
-                break;
+        int[] res = new int[2];
+        res[0]= binary_search(nums,target,true);
+        res[1]=binary_search(nums,target,false);
+        return res;
+    }
+    public int binary_search(int[] nums,int target,boolean flag){
+        int start=0;
+        int res=-1;
+        int end = nums.length-1;
+        while(start<=end){
+            int mid = start+(end-start)/2;
+            if(nums[mid]==target){
+                res = mid;
+                if(flag){
+                    end=mid-1;
+                }
+                else{
+                    start=mid+1;
+                }
+            }
+            else if(nums[mid]>target){
+                end=mid-1;
+            }
+            else{
+                start=mid+1;
             }
         }
-        for(int i=n-1;i>=0;i--){
-            if(nums[i]==target){
-                last=i;
-                break;
-            }
-        }
-        return new int[] {first,last};
+        return res;
     }
 }
