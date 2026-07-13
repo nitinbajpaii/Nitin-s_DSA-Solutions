@@ -301,6 +301,7 @@ Happy Coding! 🚀
 | [0371-sum-of-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
@@ -364,6 +365,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0917-reverse-only-letters) |
@@ -442,6 +444,7 @@ Happy Coding! 🚀
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0875-koko-eating-bananas) |
