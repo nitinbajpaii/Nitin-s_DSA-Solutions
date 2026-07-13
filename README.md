@@ -375,6 +375,7 @@ Happy Coding! 🚀
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -533,6 +534,7 @@ Happy Coding! 🚀
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -611,6 +613,7 @@ Happy Coding! 🚀
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
