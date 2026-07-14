@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -359,6 +360,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
