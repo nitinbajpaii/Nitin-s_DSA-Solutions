@@ -323,6 +323,7 @@ Happy Coding! 🚀
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2427-number-of-common-factors) |
