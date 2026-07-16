@@ -339,6 +339,7 @@ Happy Coding! 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -820,6 +821,7 @@ Happy Coding! 🚀
 | [2427-number-of-common-factors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2427-number-of-common-factors) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
