@@ -190,6 +190,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0049-group-anagrams) |
@@ -280,6 +281,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0043-multiply-strings) |
@@ -487,6 +489,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
