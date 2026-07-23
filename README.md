@@ -171,6 +171,7 @@ Happy Coding! 🚀
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
@@ -271,6 +272,7 @@ Happy Coding! 🚀
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -349,6 +351,7 @@ Happy Coding! 🚀
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -801,6 +804,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
