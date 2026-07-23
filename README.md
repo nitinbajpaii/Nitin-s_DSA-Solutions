@@ -361,6 +361,7 @@ Happy Coding! 🚀
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
