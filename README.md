@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
@@ -264,6 +265,7 @@ Happy Coding! 🚀
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
@@ -340,6 +342,7 @@ Happy Coding! 🚀
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2652-sum-multiples) |
@@ -845,6 +848,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
