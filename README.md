@@ -283,6 +283,7 @@ Happy Coding! 🚀
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
 ## Math
 | Problem Name | Difficulty |
@@ -585,6 +586,7 @@ Happy Coding! 🚀
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
 ## Sorting
