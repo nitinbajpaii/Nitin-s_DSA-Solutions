@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -355,6 +356,7 @@ Happy Coding! 🚀
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
