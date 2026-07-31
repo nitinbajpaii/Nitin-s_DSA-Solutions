@@ -597,6 +597,7 @@ Happy Coding! 🚀
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -650,6 +651,7 @@ Happy Coding! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3011-find-if-array-can-be-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
