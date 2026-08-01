@@ -11,6 +11,6 @@ class Solution {
         while(index<n){
             nums[index]=0;
             index++;
-        } 
+        }
     }
 }
