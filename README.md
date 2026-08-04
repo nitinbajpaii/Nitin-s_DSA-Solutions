@@ -462,6 +462,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -742,6 +743,7 @@ Happy Coding! 🚀
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
