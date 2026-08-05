@@ -641,6 +641,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -876,6 +877,7 @@ Happy Coding! 🚀
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Trie
 | Problem Name | Difficulty |
@@ -1034,6 +1036,7 @@ Happy Coding! 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -1073,6 +1076,7 @@ Happy Coding! 🚀
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -1107,6 +1111,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
