@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -796,6 +797,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
