@@ -347,6 +347,7 @@ Happy Coding! 🚀
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -902,6 +903,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -1131,4 +1133,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
