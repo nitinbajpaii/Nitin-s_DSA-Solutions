@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -429,6 +430,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -582,6 +584,7 @@ Happy Coding! 🚀
 | [0917-reverse-only-letters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -815,6 +818,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
