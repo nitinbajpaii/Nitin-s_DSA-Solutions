@@ -204,6 +204,7 @@ Happy Coding! 🚀
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +446,7 @@ Happy Coding! 🚀
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
