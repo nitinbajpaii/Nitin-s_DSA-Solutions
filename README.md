@@ -1006,6 +1006,7 @@ Happy Coding! 🚀
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0197-rising-temperature) |
