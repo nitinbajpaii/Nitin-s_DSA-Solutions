@@ -299,6 +299,7 @@ Happy Coding! 🚀
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -628,6 +629,7 @@ Happy Coding! 🚀
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1029,6 +1031,7 @@ Happy Coding! 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
