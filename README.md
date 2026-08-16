@@ -263,6 +263,7 @@ Happy Coding! 🚀
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -605,6 +606,7 @@ Happy Coding! 🚀
 | [1446-consecutive-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1629-slowest-key](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
