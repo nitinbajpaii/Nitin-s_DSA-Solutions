@@ -314,6 +314,7 @@ Happy Coding! 🚀
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +405,7 @@ Happy Coding! 🚀
 | [3875-construct-uniform-parity-array-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3945-digit-frequency-score](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
