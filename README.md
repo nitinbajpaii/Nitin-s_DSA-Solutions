@@ -632,6 +632,7 @@ Happy Coding! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -724,6 +725,7 @@ Happy Coding! 🚀
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -783,6 +785,7 @@ Happy Coding! 🚀
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
