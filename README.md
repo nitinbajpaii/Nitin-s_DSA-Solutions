@@ -449,6 +449,7 @@ Happy Coding! 🚀
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -622,6 +623,7 @@ Happy Coding! 🚀
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -720,6 +722,7 @@ Happy Coding! 🚀
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -845,6 +848,7 @@ Happy Coding! 🚀
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Dynamic Programming
@@ -1182,4 +1186,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 <!---LeetCode Topics End-->
