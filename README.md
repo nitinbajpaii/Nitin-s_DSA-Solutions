@@ -161,6 +161,7 @@ Happy Coding! 🚀
 | [2206-divide-array-into-equal-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2239-find-closest-number-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
