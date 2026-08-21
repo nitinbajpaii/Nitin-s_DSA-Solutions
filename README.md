@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -248,6 +249,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0648-replace-words/) | Medium |
@@ -673,6 +675,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -804,6 +807,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1047,6 +1051,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
