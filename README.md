@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
@@ -887,6 +888,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -1218,4 +1220,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
