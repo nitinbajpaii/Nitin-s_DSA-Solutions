@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -891,6 +892,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
