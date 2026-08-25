@@ -367,6 +367,7 @@ Happy Coding! 🚀
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -617,6 +618,7 @@ Happy Coding! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1446-consecutive-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
@@ -870,6 +872,7 @@ Happy Coding! 🚀
 | [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
