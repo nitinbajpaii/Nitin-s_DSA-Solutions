@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [1636-sort-array-by-increasing-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1816-truncate-sentence) |
@@ -376,6 +377,7 @@ Happy Coding! 🚀
 | [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -1018,6 +1020,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 | Problem Name | Difficulty |
