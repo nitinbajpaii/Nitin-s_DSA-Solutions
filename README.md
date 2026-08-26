@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -719,6 +720,7 @@ Happy Coding! 🚀
 | [2418-sort-the-people](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -813,6 +815,7 @@ Happy Coding! 🚀
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -929,6 +932,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -995,6 +999,7 @@ Happy Coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
