@@ -404,6 +404,7 @@ Happy Coding! 🚀
 | [2652-sum-multiples](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3024-type-of-triangle) |
@@ -509,6 +510,7 @@ Happy Coding! 🚀
 | [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -756,6 +758,7 @@ Happy Coding! 🚀
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
