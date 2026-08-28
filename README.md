@@ -160,6 +160,7 @@ Happy Coding! 🚀
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -472,6 +473,7 @@ Happy Coding! 🚀
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -656,6 +658,7 @@ Happy Coding! 🚀
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -816,6 +819,7 @@ Happy Coding! 🚀
 | [1688-count-of-matches-in-tournament](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
