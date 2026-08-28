@@ -642,6 +642,7 @@ Happy Coding! 🚀
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -892,6 +893,7 @@ Happy Coding! 🚀
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
