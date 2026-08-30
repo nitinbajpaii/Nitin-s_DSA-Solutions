@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [2053-kth-distinct-string-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -902,6 +903,7 @@ Happy Coding! 🚀
 | [1903-largest-odd-number-in-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
