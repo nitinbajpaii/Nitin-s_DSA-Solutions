@@ -334,6 +334,7 @@ Happy Coding! 🚀
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3866-first-unique-even-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3866-first-unique-even-element) |
+| [3941-password-strength](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3941-password-strength/) | Medium |
 | [3945-digit-frequency-score](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -681,6 +682,7 @@ Happy Coding! 🚀
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/3894-traffic-signal-color) |
+| [3941-password-strength](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/3941-password-strength/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
