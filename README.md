@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -247,6 +248,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0383-ransom-note) |
@@ -579,6 +581,7 @@ Happy Coding! 🚀
 | [0191-number-of-1-bits](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -694,6 +697,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -841,6 +845,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -1014,6 +1019,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1074,6 +1080,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -1112,6 +1119,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
