@@ -98,6 +98,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -261,6 +262,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1051,6 +1053,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
