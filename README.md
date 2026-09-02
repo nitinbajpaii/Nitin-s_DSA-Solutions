@@ -466,6 +466,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -616,6 +617,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0504-base-7) |
