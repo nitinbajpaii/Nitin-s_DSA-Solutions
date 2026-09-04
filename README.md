@@ -270,6 +270,7 @@ Happy Coding! 🚀
 | [0648-replace-words](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -630,6 +631,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -719,6 +721,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0791-custom-sort-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
