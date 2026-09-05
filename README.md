@@ -390,6 +390,7 @@ Happy Coding! 🚀
 | [1492-the-kth-factor-of-n](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -948,6 +949,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1395-count-number-of-teams](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1262,6 +1264,7 @@ Happy Coding! 🚀
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
