@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -726,6 +727,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0791-custom-sort-string](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0791-custom-sort-string/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -867,6 +869,7 @@ Happy Coding! 🚀
 | [0819-most-common-word](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -914,6 +917,7 @@ Happy Coding! 🚀
 | [0860-lemonade-change](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nitinbajpaii/Nitin---DSA-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitinbajpaii/Nitin-s_DSA-Solutions/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
